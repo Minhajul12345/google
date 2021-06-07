@@ -1,0 +1,33 @@
+body{
+background-color: black;
+
+}
+
+.headerStyle{
+float: right;
+}
+
+.searchBar{
+text-align: center;
+}
+
+.searchBar input{
+width: 40%;
+}
+
+.Google{
+	margin: auto;
+  width:30%;
+  
+}
+
+.submit1{
+	margin: auto;
+  width:10%;
+  display:flex;
+
+}
+
+.submit1 input{
+	margin-right:5%;
+}
